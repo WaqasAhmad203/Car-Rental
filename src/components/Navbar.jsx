@@ -15,7 +15,7 @@ export default function Navbar() {
               <li className='px-4'><a>Booking</a></li>
               </ul>
             </div>
-            <a className="btn btn-ghost text-xl">Car Rentanl</a>
+            <a className="btn btn-ghost text-xl">Car Rental</a>
           </div>
           <div className="navbar-end hidden lg:flex">
             <ul className="menu menu-horizontal px-8">
